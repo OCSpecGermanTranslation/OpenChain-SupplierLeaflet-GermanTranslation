@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.5">
+    <DOCUMENT ANZPAGES="16" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" PRESET="0" BleedTop="8.50393700787402" BleedLeft="8.50393700787402" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="14.1732283464567" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="8" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="de" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="-10" SPACE="CMYK" C="100" M="68.5599982738495" Y="29.5800000429153" K="11.8000000715256"/>
+        <COLOR NAME="-13" SPACE="CMYK" C="100" M="71.5799987316132" Y="34.919998049736" K="21.0500001907349"/>
+        <COLOR NAME="-20" SPACE="CMYK" C="100" M="76.6299962997437" Y="42.4499988555908" K="45.6099987030029"/>
+        <COLOR NAME="-23" SPACE="CMYK" C="97.9999959468842" M="75.3600001335144" Y="49.2399990558624" K="60.4999959468842"/>
+        <COLOR NAME="-3" SPACE="CMYK" C="100" M="55.9099972248077" Y="14.2999991774559" K="1.1799999512732"/>
+        <COLOR NAME="-30" SPACE="CMYK" C="80.4899990558624" M="69.949996471405" Y="60.8500003814697" K="81.989997625351"/>
+        <COLOR NAME="-33" SPACE="CMYK" C="75.9299993515015" M="67.6800012588501" Y="66.0899996757507" K="88.3799970149994"/>
+        <COLOR NAME="0" SPACE="CMYK" C="100" M="48.0199992656708" Y="6.74999952316284" K="0.169999990612268"/>
+        <COLOR NAME="10" SPACE="CMYK" C="91.2799954414368" M="26.4699995517731" Y="0" K="0"/>
+        <COLOR NAME="16" SPACE="CMYK" C="85.4699969291687" M="17.7100002765656" Y="0" K="0"/>
+        <COLOR NAME="20" SPACE="CMYK" C="84.7599983215332" M="12.1299996972084" Y="0" K="0"/>
+        <COLOR NAME="26" SPACE="CMYK" C="80.0799965858459" M="2.49999985098839" Y="0" K="0"/>
+        <COLOR NAME="3" SPACE="CMYK" C="100" M="39.699998497963" Y="0.889999978244305" K="0"/>
+        <COLOR NAME="30" SPACE="CMYK" C="75.5400002002716" M="0" Y="0" K="0"/>
+        <COLOR NAME="36" SPACE="CMYK" C="64.1200006008148" M="0" Y="0" K="0"/>
+        <COLOR NAME="40" SPACE="CMYK" C="57.1699976921082" M="0" Y="0" K="0"/>
+        <COLOR NAME="46" SPACE="CMYK" C="41.4399981498718" M="0" Y="0" K="0"/>
+        <COLOR NAME="50" SPACE="CMYK" C="33.789998292923" M="0" Y="0" K="0"/>
+        <COLOR NAME="57" SPACE="CMYK" C="18.5399994254112" M="0" Y="0" K="0"/>
+        <COLOR NAME="60" SPACE="CMYK" C="10.4999996721745" M="0" Y="0" K="0"/>
+        <COLOR NAME="63" SPACE="CMYK" C="3.08999996632338" M="0" Y="0" K="0"/>
+        <COLOR NAME="Aquamarine" SPACE="CMYK" C="85.0000023841858" M="0" Y="60.0000023841858" K="0"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="CMYK" C="68.0000007152557" M="34.0000003576279" Y="0" K="0"/>
+        <COLOR NAME="C=0 M=0 Y=0 K=40" SPACE="CMYK" C="0" M="0" Y="0" K="40.0000005960464"/>
+        <COLOR NAME="C=0 M=2 Y=8 K=0" SPACE="CMYK" C="0" M="2" Y="8" K="0"/>
+        <COLOR NAME="C=0 M=71 Y=80 K=0" SPACE="CMYK" C="0" M="70.9999978542328" Y="80.0000011920929" K="0"/>
+        <COLOR NAME="C=100 M=0 Y=0 K=0" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="C=100 M=78 Y=46 K=43" SPACE="CMYK" C="99.8799979686737" M="78.1199991703033" Y="45.5199986696243" K="42.9299980401993"/>
+        <COLOR NAME="C=51 M=15 Y=97 K=1" SPACE="CMYK" C="50.6699979305267" M="14.6699994802475" Y="96.5099990367889" K="0.56999996304512"/>
+        <COLOR NAME="C=86 M=0 Y=32 K=0" SPACE="CMYK" C="86" M="0" Y="32" K="0"/>
+        <COLOR NAME="C=98 M=7 Y=28 K=0" SPACE="CMYK" C="98" M="7" Y="28" K="0"/>
+        <COLOR NAME="Cobalt" SPACE="CMYK" C="100" M="47.9999989271164" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="CMYK" C="50" M="11.9999997317791" Y="100" K="0"/>
+        <COLOR NAME="Hyperlink" SPACE="CMYK" C="86" M="57" Y="0" K="16"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Midnight" SPACE="CMYK" C="100" M="77.9999971389771" Y="44.9999988079071" K="41.9999986886978"/>
+        <COLOR NAME="Orange" SPACE="CMYK" C="0" M="60.0000023841858" Y="100" K="0"/>
+        <COLOR NAME="Orange PT166" SPACE="CMYK" C="0" M="76" Y="100" K="0"/>
+        <COLOR NAME="PANTONE 7466 C" SPACE="Lab" L="61.5686274509804" A="-54" B="-23"/>
+        <COLOR NAME="PANTONE 7466 Cのコピー" SPACE="CMYK" C="90" M="4" Y="35" K="0"/>
+        <COLOR NAME="PANTONE 7579 Cのコピー" SPACE="CMYK" C="14.5" M="78" Y="87" K="0"/>
+        <COLOR NAME="Plum" SPACE="CMYK" C="52.9999971389771" M="99.0000009536743" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="CMYK" C="10.0000001490116" M="93.0000007152557" Y="60.0000023841858" K="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Shade - Aquamarine" SPACE="CMYK" C="100" M="11.9999997317791" Y="87.9999995231628" K="1.99999995529652"/>
+        <COLOR NAME="Shade - Blue" SPACE="CMYK" C="100" M="54.0000021457672" Y="17.0000001788139" K="1.99999995529652"/>
+        <COLOR NAME="Shade - Green" SPACE="CMYK" C="68.0000007152557" M="18.9999997615814" Y="100" K="3.99999991059303"/>
+        <COLOR NAME="Shade - Orange" SPACE="CMYK" C="0" M="75.9999990463257" Y="100" K="0"/>
+        <COLOR NAME="Shade - Plum" SPACE="CMYK" C="56.0000002384186" M="100" Y="20.0000002980232" K="5.00000007450581"/>
+        <COLOR NAME="Shade - Red" SPACE="CMYK" C="15.9999996423721" M="100" Y="89.9999976158142" K="7.00000002980232"/>
+        <COLOR NAME="Shade - Sienna" SPACE="CMYK" C="15.0000005960464" M="63.9999985694885" Y="100" K="2.99999993294477"/>
+        <COLOR NAME="Shade - Teal" SPACE="CMYK" C="100" M="37.0000004768372" Y="46.9999998807907" K="11.9999997317791"/>
+        <COLOR NAME="Shade - Violet" SPACE="CMYK" C="92.0000016689301" M="87.0000004768372" Y="0" K="0"/>
+        <COLOR NAME="Shade - Yellow" SPACE="CMYK" C="10.0000001490116" M="36.0000014305115" Y="100" K="0"/>
+        <COLOR NAME="Sienna" SPACE="CMYK" C="15.0000005960464" M="51.9999980926514" Y="100" K="0"/>
+        <COLOR NAME="Sky" SPACE="CMYK" C="56.0000002384186" M="10.0000001490116" Y="0" K="0"/>
+        <COLOR NAME="Slate" SPACE="CMYK" C="50.9999990463257" M="43.0000007152557" Y="43.0000007152557" K="7.00000002980232"/>
+        <COLOR NAME="Slate Dark" SPACE="CMYK" C="56" M="48" Y="48" K="12"/>
+        <COLOR NAME="TInt - Green" SPACE="CMYK" C="21.9999998807907" M="0.999999977648258" Y="49.0000009536743" K="0"/>
+        <COLOR NAME="TInt - Sienna" SPACE="CMYK" C="0" M="23.9999994635582" Y="46.9999998807907" K="0"/>
+        <COLOR NAME="Teal" SPACE="CMYK" C="72.0000028610229" M="0" Y="34.0000003576279" K="0"/>
+        <COLOR NAME="Tint - Aquamarine" SPACE="CMYK" C="55.0000011920929" M="0" Y="34.0000003576279" K="0"/>
+        <COLOR NAME="Tint - Blue" SPACE="CMYK" C="50.9999990463257" M="3.99999991059303" Y="0" K="0"/>
+        <COLOR NAME="Tint - Orange" SPACE="CMYK" C="0" M="25" Y="50" K="0"/>
+        <COLOR NAME="Tint - Plum" SPACE="CMYK" C="5.99999986588955" M="37.9999995231628" Y="3.99999991059303" K="0"/>
+        <COLOR NAME="Tint - Red" SPACE="CMYK" C="0" M="40.9999996423721" Y="5.99999986588955" K="0"/>
+        <COLOR NAME="Tint - Teal" SPACE="CMYK" C="55.0000011920929" M="0" Y="18.9999997615814" K="0"/>
+        <COLOR NAME="Tint - Violet" SPACE="CMYK" C="54.0000021457672" M="49.0000009536743" Y="0" K="0"/>
+        <COLOR NAME="Tint - Yellow" SPACE="CMYK" C="0" M="7.99999982118607" Y="43.0000007152557" K="0"/>
+        <COLOR NAME="VIolet" SPACE="CMYK" C="83.9999973773956" M="70.9999978542328" Y="0" K="0"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <COLOR NAME="Yellow " SPACE="CMYK" C="0" M="20.0000002980232" Y="89.9999976158142" K="0"/>
+        <COLOR NAME="u260e" SPACE="Lab" L="47.4509803921569" A="-40" B="-26"/>
+        <Gradient Name="u81" Ext="3">
+            <CSTOP RAMP="0" NAME="White" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="1"/>
+        </Gradient>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="[No paragraph style]" PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="0" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" TXTULP="-0.1" TXTSTP="-0.1" BASEO="0"/>
+        <STYLE NAME="NormalParagraphStyle" PARENT="[No paragraph style]" ALIGN="3" LINESPMode="1" FONT="Arial Regular" FONTSIZE="9.2" FEATURES="inherit"/>
+        <STYLE NAME="about Auther" PARENT="[No paragraph style]" LINESPMode="0" LINESP="13" VOR="3.99968503937008" NACH="4" FONT="Arial Regular" FONTSIZE="9.5" FEATURES="inherit" FSHADE="100"/>
+        <STYLE NAME="Body" PARENT="[No paragraph style]" ALIGN="3" LINESPMode="0" LINESP="14" NACH="7.08661417322835" FONT="Arial Regular" FONTSIZE="8" FEATURES="inherit">
+            <Tabs Type="0" Pos="18.4251968503937" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Body bold gray" PARENT="[No paragraph style]" ALIGN="3" LINESPMode="0" LINESP="14" NACH="7.08661417322835" FONT="Arial Regular" FONTSIZE="7.8" FEATURES="inherit" FSHADE="85">
+            <Tabs Type="0" Pos="18.4251968503937" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Body 8.3" PARENT="Body" LINESPMode="0" LINESP="14" NACH="7.2625" FONT="Arial Regular" FONTSIZE="8.3" FEATURES="inherit">
+            <Tabs Type="0" Pos="14.1732283464567" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Body Before bullet" PARENT="Body" LINESPMode="1" NACH="6.00094488188976" FONT="Arial Regular" FEATURES="inherit">
+            <Tabs Type="0" Pos="14.1732283464567" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Body Before bullet 8.3" PARENT="Body Before bullet" LINESPMode="0" LINESP="14" NACH="7.26236220472441" FONT="Arial Regular" FONTSIZE="8.3" FEATURES="inherit"/>
+        <STYLE NAME="Body Bold 12 pt indent" PARENT="[No paragraph style]" LINESPMode="0" LINESP="13" INDENT="12" RMARGIN="12" NACH="13" FONT="Arial Regular" FONTSIZE="9" FEATURES="inherit" FSHADE="100"/>
+        <STYLE NAME="Body Bold インデントなし" PARENT="[No paragraph style]" ALIGN="3" LINESPMode="0" LINESP="14" INDENT="15.5905511811024" FIRST="-15.5905511811024" NACH="2.83464566929134" FONT="Arial Regular" FONTSIZE="9" FEATURES="inherit" FSHADE="100"/>
+        <STYLE NAME="Body 前後0" PARENT="Body" LINESPMode="1" INDENT="22.6771653543307" FIRST="-22.6771653543307" NACH="0" FONT="Arial Regular" FEATURES="inherit">
+            <Tabs Type="0" Pos="22.6771653543307" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Body 前後2" PARENT="Body" LINESPMode="1" VOR="5.66929133858268" NACH="5.66929133858268" FONT="Arial Regular" FEATURES="inherit">
+            <Tabs Type="0" Pos="22.6771653543307" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Body 前後0 M" PARENT="Body" LINESPMode="1" INDENT="22.6771653543307" FIRST="-22.6771653543307" NACH="0" FONT="Arial Regular" FEATURES="inherit">
+            <Tabs Type="0" Pos="22.6771653543307" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Body 前後0-8.3" PARENT="Body 前後0" LINESPMode="1" FONT="Arial Regular" FONTSIZE="8.3" FEATURES="inherit">
+            <Tabs Type="0" Pos="14.1732283464567" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Bullet list" PARENT="Body" LINESPMode="1" INDENT="22.6771653543307" FIRST="-12.755905511811" NACH="3" FONT="Arial Regular" FEATURES="inherit" FSHADE="100">
+            <Tabs Type="0" Pos="12" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Bullet list \: 区切り" PARENT="Bullet list" LINESPMode="1" INDENT="24.0944881889764" FIRST="-12.755905511811" FONT="Arial Regular" FEATURES="inherit"/>
+        <STYLE NAME="Bullet list \: 区切り R" PARENT="Bullet list" LINESPMode="1" FONT="Arial Regular" FEATURES="inherit"/>
+        <STYLE NAME="Bullet list \: 区切り8.3" PARENT="Bullet list \: 区切り" LINESPMode="0" LINESP="14" INDENT="24.0944881889764" FIRST="-14.1732283464567" FONT="Arial Regular" FONTSIZE="8.3" FEATURES="inherit"/>
+        <STYLE NAME="Bullet list \: 区切り8.3 R" PARENT="Bullet list \: 区切り" LINESPMode="0" LINESP="14" INDENT="24.0944881889764" FIRST="-14.1732283464567" FONT="Arial Regular" FONTSIZE="8.3" FEATURES="inherit"/>
+        <STYLE NAME="Bullet list 8.3" PARENT="Body 前後0-8.3" LINESPMode="1" INDENT="24.0944881889764" FIRST="-14.1732283464567" NACH="3" FONT="Arial Regular" FEATURES="inherit" FSHADE="100">
+            <Tabs Type="0" Pos="12" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Bullet list 8.3 last" PARENT="Body 前後0-8.3" LINESPMode="1" INDENT="24.0944881889764" FIRST="-14.1732283464567" NACH="7.26236220472441" FONT="Arial Regular" FEATURES="inherit" FSHADE="100">
+            <Tabs Type="0" Pos="12" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Bullet list last" PARENT="Bullet list" LINESPMode="1" NACH="13.4645669291339" FONT="Arial Regular" FEATURES="inherit"/>
+        <STYLE NAME="Bullet list level 2" PARENT="[No paragraph style]" LINESPMode="0" LINESP="13" INDENT="28.2529133858268" FIRST="-12.0018897637795" NACH="3" FONT="Arial Regular" FONTSIZE="7.8" FEATURES="inherit" FSHADE="100"/>
+        <STYLE NAME="Bullet list level 2 last" PARENT="[No paragraph style]" LINESPMode="0" LINESP="13" INDENT="24" FIRST="-24" NACH="13" FONT="Arial Regular" FONTSIZE="7.8" FEATURES="inherit" FSHADE="100"/>
+        <STYLE NAME="Call to Action Headline" PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="14" INDENT="9" FONT="Avenir Next W1G Medium" FONTSIZE="10" FEATURES="inherit" FCOLOR="White"/>
+        <STYLE NAME="Callout - Gray Box" PARENT="[No paragraph style]" LINESPMode="0" LINESP="19" INDENT="18" RMARGIN="18" VOR="4.5" FONT="Avenir Next W1G Light" FONTSIZE="12.1" FEATURES="inherit" FSHADE="85"/>
+        <STYLE NAME="Collateral Identifier " PARENT="[No paragraph style]" LINESPMode="0" LINESP="11" FONT="Arial Regular" FONTSIZE="15" FEATURES="inherit"/>
+        <STYLE NAME="Content Providers" PARENT="[No paragraph style]" ALIGN="3" LINESPMode="0" LINESP="14" FONT="Arial Regular" FONTSIZE="8" FEATURES="inherit" FSHADE="85"/>
+        <STYLE NAME="Copyright" PARENT="[No paragraph style]" LINESPMode="0" LINESP="7" FONT="Arial Regular" FONTSIZE="5.7" FEATURES="inherit"/>
+        <STYLE NAME="Cover subhead / kicker" PARENT="[No paragraph style]" LINESPMode="0" LINESP="15" NACH="9" FONT="Arial Regular" FONTSIZE="10.1" FEATURES="inherit" FCOLOR="White" FSHADE="100"/>
+        <STYLE NAME="Cover Title" PARENT="[No paragraph style]" LINESPMode="0" LINESP="26" NACH="9" FONT="Arial Regular" FONTSIZE="22" FEATURES="inherit" FCOLOR="White" FSHADE="100"/>
+        <STYLE NAME="Cover Title-E" PARENT="[No paragraph style]" LINESPMode="0" LINESP="36" NACH="9" FONT="Arial Regular" FONTSIZE="24" FEATURES="inherit" FSHADE="100"/>
+        <STYLE NAME="Featuring-Name_Title-FrontCover" PARENT="[No paragraph style]" LINESPMode="0" LINESP="11" NACH="6" FONT="Avenir Next W1G Light" FONTSIZE="9" FEATURES="inherit" FSHADE="80"/>
+        <STYLE NAME="figure" PARENT="[No paragraph style]" ALIGN="3" LINESPMode="1" VOR="2.83464566929134" NACH="14.1732283464567" FONT="Arial Regular" FONTSIZE="8" FEATURES="inherit"/>
+        <STYLE NAME="Figure Caption" PARENT="[No paragraph style]" LINESPMode="0" LINESP="13" NACH="5.66929133858268" FONT="Arial Regular" FONTSIZE="7.8" FEATURES="inherit" FCOLOR="VIolet" FSHADE="100"/>
+        <STYLE NAME="Footnote" PARENT="Body" LINESPMode="0" LINESP="8" INDENT="5" FIRST="-5" VOR="3" NACH="3" FONT="Arial Regular" FONTSIZE="6" FEATURES="inherit"/>
+        <STYLE NAME="Footnote 7" PARENT="Footnote" ALIGN="0" LINESPMode="0" LINESP="9" VOR="7.08661417322835" FONT="Arial Regular" FONTSIZE="7" FEATURES="inherit">
+            <Tabs Type="0" Pos="7.08661417322835" Fill=""/>
+            <Tabs Type="0" Pos="24.0944881889764" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Footnote 37mm罫線" PARENT="Body" LINESPMode="0" LINESP="8" INDENT="7.93700787401575" FIRST="-7.93700787401575" VOR="3" NACH="2.99905511811024" DROP="1" DROPLIN="1" FONT="Arial Regular" FONTSIZE="6" FEATURES="inherit"/>
+        <STYLE NAME="Head 1 Color | " PARENT="[No paragraph style]" LINESPMode="0" LINESP="24" VOR="17.007874015748" NACH="6" FONT="Arial Regular" FONTSIZE="17" FEATURES="inherit"/>
+        <STYLE NAME="Head 1 Color | sub" PARENT="Head 1 Color | " ALIGN="3" LINESPMode="0" LINESP="15" VOR="0" FONT="Arial Regular" FONTSIZE="9.5" FEATURES="inherit" FSHADE="85"/>
+        <STYLE NAME="Head 1 Color | Teal 7466" PARENT="[No paragraph style]" LINESPMode="0" LINESP="23" VOR="17.007874015748" NACH="6" FONT="Arial Regular" FONTSIZE="17" FEATURES="inherit" FCOLOR="PANTONE 7466 Cのコピー"/>
+        <STYLE NAME="Head 2 Black" PARENT="[No paragraph style]" LINESPMode="0" LINESP="15" VOR="9.21259842519685" NACH="3.40157480314961" FONT="Arial Regular" FONTSIZE="11" FEATURES="inherit" FSHADE="85"/>
+        <STYLE NAME="Head 2 Blue" PARENT="Head 2 Black" LINESPMode="1" VOR="3.99968503937008" FONT="Arial Regular" FEATURES="inherit" FCOLOR="Midnight" FSHADE="70"/>
+        <STYLE NAME="Head 2 blue-indent | Tab before Copy" PARENT="Head 2 Blue" LINESPMode="1" INDENT="12" FIRST="-12" FONT="Arial Regular" FEATURES="inherit">
+            <Tabs Type="0" Pos="12" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Head 3 Slate" PARENT="Head 2 Black" LINESPMode="1" VOR="3.99968503937008" FONT="Arial Regular" FONTSIZE="10" FEATURES="inherit" FCOLOR="Slate Dark" FSHADE="100"/>
+        <STYLE NAME="Insights-sub-front cover" PARENT="[No paragraph style]" LINESPMode="0" LINESP="15" INDENT="14" NACH="12" FONT="Arial Regular" FONTSIZE="9" FEATURES="inherit" FCOLOR="Sienna" FSHADE="100"/>
+        <STYLE NAME="Page Number" PARENT="[No paragraph style]" ALIGN="1" LINESPMode="0" LINESP="29" FONT="Avenir Next W1G Thin" FEATURES="inherit"/>
+        <STYLE NAME="PageTop Header " PARENT="Footnote" ALIGN="2" LINESPMode="1" FONT="Arial Regular" FONTSIZE="7.5" FEATURES="inherit" FCOLOR="White" BASEO="1"/>
+        <STYLE NAME="Sidebar color quote | color matches logo block" PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="18" FONT="Arial Regular" FONTSIZE="11.3" FEATURES="inherit" FCOLOR="White"/>
+        <STYLE NAME="Sidebar Quote Author " PARENT="Body" LINESPMode="0" LINESP="14" INDENT="24" NACH="12" FONT="Arial Regular" FONTSIZE="9.4" FEATURES="inherit" FSHADE="60"/>
+        <STYLE NAME="StoryinStory - body" PARENT="[No paragraph style]" LINESPMode="0" LINESP="16" RMARGIN="10" NACH="12" FONT="Arial Regular" FONTSIZE="9.5" FEATURES="inherit" FSHADE="85"/>
+        <STYLE NAME="StoryinStory - Header" PARENT="Head 3 Slate" LINESPMode="0" LINESP="16" FONT="Arial Regular" FEATURES="inherit" FCOLOR="Sienna"/>
+        <STYLE NAME="Table Body bold" PARENT="Body" LINESPMode="0" LINESP="9" NACH="6" FONT="Arial Regular" FONTSIZE="6.9" FEATURES="inherit" FSHADE="90"/>
+        <STYLE NAME="Table Body Copy" PARENT="Body" LINESPMode="0" LINESP="9" NACH="6" FONT="Arial Regular" FONTSIZE="6.9" FEATURES="inherit" FSHADE="90"/>
+        <STYLE NAME="Table Heading" PARENT="Body" LINESPMode="0" LINESP="12" FONT="Arial Regular" FONTSIZE="8.6" FEATURES="inherit" FCOLOR="White"/>
+        <STYLE NAME="Table Subhead" PARENT="Table Heading" LINESPMode="1" FONT="Arial Regular" FONTSIZE="8.2" FEATURES="inherit"/>
+        <STYLE NAME="TOC - Head 1" PARENT="[No paragraph style]" LINESPMode="1" INDENT="11.3385826771654" NACH="9" FONT="Arial Regular" FONTSIZE="9" FEATURES="inherit" FSHADE="90">
+            <Tabs Type="0" Pos="337" Fill="."/>
+        </STYLE>
+        <STYLE NAME="TOC - Head 2" PARENT="[No paragraph style]" LINESPMode="1" INDENT="12" NACH="9" FONT="Arial Regular" FONTSIZE="8.1" FEATURES="inherit" FCOLOR="Slate" FSHADE="80">
+            <Tabs Type="1" Pos="337" Fill="."/>
+        </STYLE>
+        <STYLE NAME="TOC title" PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="11" NACH="24.0944881889764" FONT="Arial Regular" FONTSIZE="13" FEATURES="inherit" FCOLOR="Midnight"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="de"/>
+        <CHARSTYLE CNAME="[No character style]" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit"/>
+        <CHARSTYLE CNAME="トラッキング0" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit"/>
+        <CHARSTYLE CNAME="分割禁止" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit"/>
+        <CHARSTYLE CNAME="Body bold" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit" FCOLOR="Black" BASEO="0"/>
+        <CHARSTYLE CNAME="Body italic" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit"/>
+        <CHARSTYLE CNAME="Body bullet" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit"/>
+        <CHARSTYLE CNAME="Blue Chevron in QUOTE" CPARENT="Default Character Style" FONT="Arial Regular" FONTSIZE="60" FEATURES="inherit" FCOLOR="Midnight" FSHADE="30" BASEO="-15"/>
+        <CHARSTYLE CNAME="Chevron_Front Cover" CPARENT="Default Character Style" FONT="Arial Regular" FONTSIZE="15" FEATURES="inherit" FCOLOR="White" FSHADE="30"/>
+        <CHARSTYLE CNAME="Main Title ®" CPARENT="Default Character Style" FONT="Arial Regular" FONTSIZE="13" FEATURES="inherit" BASEO="8"/>
+        <CHARSTYLE CNAME="Head 1 ®" CPARENT="Default Character Style" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Sienna" BASEO="5"/>
+        <CHARSTYLE CNAME="Head 2 ®" CPARENT="Default Character Style" FONT="Arial Regular" FONTSIZE="9" FEATURES="inherit" BASEO="3"/>
+        <CHARSTYLE CNAME="TOC ®" CPARENT="Default Character Style" FONT="Arial Regular" FONTSIZE="8" FEATURES="inherit" BASEO="2"/>
+        <CHARSTYLE CNAME="body ®" CPARENT="Default Character Style" FONT="Arial Regular" FONTSIZE="7" FEATURES="inherit" BASEO="2"/>
+        <CHARSTYLE CNAME="Quote ®" CPARENT="Default Character Style" FONT="Arial Regular" FONTSIZE="9" FEATURES="inherit" FCOLOR="Black" FSHADE="85" BASEO="4"/>
+        <CHARSTYLE CNAME="Hyperlink blue (url ONLY)" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit" FCOLOR="VIolet"/>
+        <CHARSTYLE CNAME="• Body bullet" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit"/>
+        <CHARSTYLE CNAME="Featuring_PresenterName-FrontCover" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit"/>
+        <CHARSTYLE CNAME="callout Blue arrow" CPARENT="Default Character Style" FONT="Wingdings 3 Regular" FONTSIZE="50" FEATURES="inherit" FCOLOR="Midnight" FSHADE="60" BASEO="-16"/>
+        <CHARSTYLE CNAME="Callout Orange Arrow" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit" BASEO="-2"/>
+        <CHARSTYLE CNAME="Hyperlink" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit" FCOLOR="Hyperlink"/>
+        <CHARSTYLE CNAME="Table bold" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit"/>
+        <CHARSTYLE CNAME="Footnote #" CPARENT="Default Character Style" FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit superscript" FCOLOR="Black"/>
+        <CHARSTYLE CNAME="Medium" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit"/>
+        <CHARSTYLE CNAME="Footnote #jp" CPARENT="Default Character Style" FONT="Arial Regular" FONTSIZE="4.5" FEATURES="inherit" BASEO="4.2"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Layer 1" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="105" useAltPrintCommand="114" outputSeparations="99" useSpotColors="117" useColor="109" mirrorH="102" mirrorV="108" useICC="0" doGCR="101" doClip="120" setDevParam="46" useDocBleeds="115" cropMarks="99" bleedMarks="119" registrationMarks="100" colorMarks="105" includePDFMarks="101" PSLevel="3" PDLanguage="1919383395" markLength="5.30581638218634e+180" markOffset="1.11175946003149e+171" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="15" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="0" NAM="uce_ud3" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="1" NAM="u231_u236" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="2" NAM="u231_u237" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.275590551" PAGEYPOS="20" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="0" NAM="" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="901.889763778" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="1" NAM="" MNAM="u231_u236" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.275590551" PAGEYPOS="901.889763778" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="2" NAM="" MNAM="u231_u237" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1783.779527556" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="3" NAM="" MNAM="u231_u236" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.275590551" PAGEYPOS="1783.779527556" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="4" NAM="" MNAM="u231_u237" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="2665.669291334" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="5" NAM="" MNAM="u231_u236" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.275590551" PAGEYPOS="2665.669291334" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="6" NAM="" MNAM="u231_u237" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3547.559055112" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="7" NAM="" MNAM="u231_u236" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.275590551" PAGEYPOS="3547.559055112" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="8" NAM="" MNAM="u231_u237" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="4429.44881889" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="9" NAM="" MNAM="u231_u236" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.275590551" PAGEYPOS="4429.44881889" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="10" NAM="" MNAM="u231_u237" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="5311.338582668" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="11" NAM="" MNAM="u231_u236" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.275590551" PAGEYPOS="5311.338582668" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="12" NAM="" MNAM="u231_u237" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="6193.228346446" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="13" NAM="" MNAM="u231_u236" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.275590551" PAGEYPOS="6193.228346446" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="14" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="7075.118110224" PAGEWIDTH="595.275590551" PAGEHEIGHT="841.889763778" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="48" BORDERBOTTOM="36" NUM="15" NAM="" MNAM="uce_ud3" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="91.516472441126" YPOS="11.496062992126" OwnPage="1" ItemID="194325488" PTYPE="6" WIDTH="603.779527558874" HEIGHT="57.0978627671541" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PCOLOR="Orange PT166" SHADE="90" PLINEART="1" ANNAME="u1fd7" path="M0 0 L0 57.0979 L603.78 57.0979 L603.78 0 L0 0 Z" copath="M0 0 L0 57.0979 L603.78 57.0979 L603.78 0 L0 0 Z" OnMasterPage="u231_u236" fillRule="0" gXpos="91.516472441126" gYpos="185345019.369722" gWidth="0" gHeight="0" LAYER="0"/>
+        <MASTEROBJECT XPOS="695.296" YPOS="11.496062992126" OwnPage="1" ItemID="159510480" PTYPE="6" WIDTH="603.779527558874" HEIGHT="57.0978627671541" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PCOLOR="Orange PT166" SHADE="90" PLINEART="1" ANNAME="u1fd8" path="M0 0 L0 57.0979 L603.78 57.0979 L603.78 0 L0 0 Z" copath="M0 0 L0 57.0979 L603.78 57.0979 L603.78 0 L0 0 Z" OnMasterPage="u231_u236" fillRule="0" gXpos="695.296" gYpos="185345019.369722" gWidth="0" gHeight="0" LAYER="0"/>
+        <MASTEROBJECT XPOS="139.705448819199" YPOS="105.03937007874" OwnPage="1" ItemID="164497952" PTYPE="4" WIDTH="504.566929133556" HEIGHT="688.818897636268" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u266" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 688.819 L504.567 688.819 L504.567 0 L0 0 Z" copath="M0 0 L0 688.819 L504.567 688.819 L504.567 0 L0 0 Z" OnMasterPage="u231_u236" fillRule="0" gXpos="139.705448819199" gYpos="185345112.913029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="131.362535433252" YPOS="813.342692912622" OwnPage="1" ItemID="195854080" PTYPE="12" WIDTH="33.3157480314961" HEIGHT="33.315748031496" FRTYPE="0" CLIPEDIT="1" ANNAME="u1fdc" groupWidth="33.3157480314961" groupHeight="33.315748031496" groupClips="1" path="M0 0 L33.3157 0 L33.3157 33.3157 L0 33.3157 L0 0 Z" copath="M0 0 L33.3157 0 L33.3157 33.3157 L0 33.3157 L0 0 Z" OnMasterPage="u231_u236" fillRule="0" gXpos="131.362535433252" gYpos="185345821.216352" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="131.612535433252" YPOS="813.592692912622" OwnPage="1" ItemID="195006816" PTYPE="6" WIDTH="32.8157480314961" HEIGHT="32.8157480314961" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.5" PCOLOR2="Orange PT166" PLINEART="1" ANNAME="u1af4" path="M16.4079 32.8157 C25.4697 32.8157 32.8157 25.4697 32.8157 16.4079 C32.8157 7.34606 25.4697 0 16.4079 0 C7.34606 0 0 7.34606 0 16.4079 C0 25.4697 7.34606 32.8157 16.4079 32.8157 Z" copath="M16.4079 32.8157 C25.4697 32.8157 32.8157 25.4697 32.8157 16.4079 C32.8157 7.34606 25.4697 0 16.4079 0 C7.34606 0 0 7.34606 0 16.4079 C0 25.4697 7.34606 32.8157 16.4079 32.8157 Z" OnMasterPage="u231_u236" fillRule="0" gXpos="0.25" gYpos="0.25" gWidth="33.3157480314961" gHeight="33.315748031496" LAYER="0"/>
+            <PAGEOBJECT XPOS="136.020409449" YPOS="818.375118109473" OwnPage="1" ItemID="195848720" PTYPE="4" WIDTH="24" HEIGHT="23.9999999999997" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1b0c" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="13.57029828" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 24 L24 24 L24 0 L0 0 Z" copath="M0 0 L0 24 L24 24 L24 0 L0 0 Z" OnMasterPage="u231_u236" fillRule="0" gXpos="4.65787401574801" gYpos="5.03242519685045" gWidth="33.3157480314961" gHeight="33.315748031496" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <var name="pgno" FEATURES="inherit"/>
+                    <para PARENT="Page Number" LINESPMode="1"/>
+                </StoryText>
+            </PAGEOBJECT>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="-503.779527558874" YPOS="11.496062992126" OwnPage="2" ItemID="195864688" PTYPE="6" WIDTH="603.779527558874" HEIGHT="57.0978627671541" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PCOLOR="Orange PT166" SHADE="90" PLINEART="1" ANNAME="Kopie von u1fd7" path="M0 0 L0 57.0979 L603.78 57.0979 L603.78 0 L0 0 Z" copath="M0 0 L0 57.0979 L603.78 57.0979 L603.78 0 L0 0 Z" OnMasterPage="u231_u237" fillRule="0" gXpos="26808327.7165022" gYpos="139008767.401284" gWidth="0" gHeight="0" LAYER="0"/>
+        <MASTEROBJECT XPOS="100" YPOS="11.496062992126" OwnPage="2" ItemID="195869936" PTYPE="6" WIDTH="603.779527558874" HEIGHT="57.0978627671541" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PCOLOR="Orange PT166" SHADE="90" PLINEART="1" ANNAME="Kopie von u1fd8" path="M0 0 L0 57.0979 L603.78 57.0979 L603.78 0 L0 0 Z" copath="M0 0 L0 57.0979 L603.78 57.0979 L603.78 0 L0 0 Z" OnMasterPage="u231_u237" fillRule="0" gXpos="26808931.4960297" gYpos="139008767.401284" gWidth="0" gHeight="0" LAYER="0"/>
+        <MASTEROBJECT XPOS="151.023622047244" YPOS="105.03937007874" OwnPage="2" ItemID="195875184" PTYPE="4" WIDTH="328.818897637675" HEIGHT="688.818897636268" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u250" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 688.819 L328.819 688.819 L328.819 0 L0 0 Z" copath="M0 0 L0 688.819 L328.819 688.819 L328.819 0 L0 0 Z" OnMasterPage="u231_u237" fillRule="0" gXpos="26808982.5196518" gYpos="139008860.944591" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="630.618661417323" YPOS="813.342125983488" OwnPage="2" ItemID="163434656" PTYPE="12" WIDTH="33.3157480314961" HEIGHT="33.315748031496" FRTYPE="0" CLIPEDIT="1" ANNAME="u1fdb" groupWidth="33.3157480314961" groupHeight="33.315748031496" groupClips="1" path="M0 0 L33.3157 0 L33.3157 33.3157 L0 33.3157 L0 0 Z" copath="M0 0 L33.3157 0 L33.3157 33.3157 L0 33.3157 L0 0 Z" OnMasterPage="u231_u237" fillRule="0" gXpos="26809462.1146911" gYpos="139009569.247347" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="630.868661417323" YPOS="813.592125983488" OwnPage="2" ItemID="163429104" PTYPE="6" WIDTH="32.8157480314961" HEIGHT="32.8157480314961" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.5" PCOLOR2="Orange PT166" PLINEART="1" ANNAME="u1af3" path="M16.4079 32.8157 C25.4697 32.8157 32.8157 25.4697 32.8157 16.4079 C32.8157 7.34606 25.4697 0 16.4079 0 C7.34606 0 0 7.34606 0 16.4079 C0 25.4697 7.34606 32.8157 16.4079 32.8157 Z" copath="M16.4079 32.8157 C25.4697 32.8157 32.8157 25.4697 32.8157 16.4079 C32.8157 7.34606 25.4697 0 16.4079 0 C7.34606 0 0 7.34606 0 16.4079 C0 25.4697 7.34606 32.8157 16.4079 32.8157 Z" OnMasterPage="u231_u237" fillRule="0" gXpos="0.25" gYpos="0.25" gWidth="33.3157480314961" gHeight="33.315748031496" LAYER="0"/>
+            <PAGEOBJECT XPOS="635.275590551181" YPOS="818.375118109473" OwnPage="2" ItemID="163431824" PTYPE="4" WIDTH="24" HEIGHT="23.9999999999997" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1af5" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="13.57029828" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 24 L24 24 L24 0 L0 0 Z" copath="M0 0 L0 24 L24 24 L24 0 L0 0 Z" OnMasterPage="u231_u237" fillRule="0" gXpos="4.65692913385828" gYpos="5.03299212598426" gWidth="33.3157480314961" gHeight="33.315748031496" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <trail/>
+                </StoryText>
+            </PAGEOBJECT>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="209.941532149528" YPOS="49.1968503937008" OwnPage="2" ItemID="194201040" PTYPE="4" WIDTH="445.649019031394" HEIGHT="13.1338582684804" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.283464566929134" PLINEART="1" ANNAME="u1b3b" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 13.1339 L445.649 13.1339 L445.649 0 L0 0 Z" copath="M0 0 L0 13.1339 L445.649 13.1339 L445.649 0 L0 0 Z" OnMasterPage="u231_u237" fillRule="0" gXpos="26809041.4375619" gYpos="139008805.102071" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <PAGEOBJECT XPOS="695.275590551" YPOS="11.4960629921262" OwnPage="0" ItemID="194600992" PTYPE="6" WIDTH="603.779527558874" HEIGHT="858.897637793748" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PCOLOR="C=0 M=2 Y=8 K=0" PLINEART="1" ANNAME="u1964" path="M0 0 L0 858.898 L603.78 858.898 L603.78 0 L0 0 Z" copath="M0 0 L0 858.898 L603.78 858.898 L603.78 0 L0 0 Z" fillRule="0" gXpos="695.275590551" gYpos="11.4960629921262" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="686.771653535868" YPOS="286.071500465091" OwnPage="0" ItemID="194603712" PTYPE="4" WIDTH="612.283464566929" HEIGHT="167.244094488189" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u47d" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 167.244 L612.283 167.244 L612.283 0 L0 0 Z" copath="M0 0 L0 167.244 L612.283 167.244 L612.283 0 L0 0 Z" fillRule="0" gXpos="686.771653535868" gYpos="286.071500465091" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail PARENT="[No paragraph style]" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="686.771653535868" YPOS="453.31559495328" OwnPage="0" ItemID="159538400" PTYPE="4" WIDTH="612.283464566929" HEIGHT="419.527559055115" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1910" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 419.528 L612.283 419.528 L612.283 0 L0 0 Z" copath="M0 0 L0 419.528 L612.283 419.528 L612.283 0 L0 0 Z" fillRule="0" gXpos="686.771653535868" gYpos="453.31559495328" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail PARENT="[No paragraph style]" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="763.307086613992" YPOS="355.905155485243" OwnPage="0" ItemID="194223776" PTYPE="4" WIDTH="487.654991803131" HEIGHT="107.670003990145" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u493" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="14.89000978773" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 107.67 L487.655 107.67 L487.655 0 L0 0 Z" copath="M0 0 L0 107.67 L487.655 107.67 L487.655 0 L0 0 Z" fillRule="0" gXpos="763.307086613992" gYpos="355.905155485243" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Open Source Software Lizenz-Compliance"/>
+                <para PARENT="Cover Title-E" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" CH="Allgemeiner Leitfaden"/>
+                <para PARENT="Cover Title-E" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="686.771653543126" YPOS="450.36220472441" OwnPage="0" ItemID="194226608" PTYPE="4" WIDTH="612.283464566929" HEIGHT="5.90678045774064" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PCOLOR="Tint - Orange" PLINEART="1" ANNAME="u4a9" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 5.90678 L612.283 5.90678 L612.283 0 L0 0 Z" copath="M0 0 L0 5.90678 L612.283 5.90678 L612.283 0 L0 0 Z" fillRule="0" gXpos="686.771653543126" gYpos="450.36220472441" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail PARENT="Collateral Identifier " LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1106.8310082292" YPOS="61.2763363387512" OwnPage="0" ItemID="159541232" PTYPE="2" WIDTH="147.72017288208" HEIGHT="82.0307502746582" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u25f2" LOCALSCX="0.25" LOCALSCY="0.25" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../en/GFX/OpenChain_Logo_Pantone_CMYK.ai" IRENDER="0" EMBEDDED="0" path="M0 0 L0 82.0308 L147.72 82.0308 L147.72 0 L0 0 Z" copath="M0 0 L0 82.0308 L147.72 82.0308 L147.72 0 L0 0 Z" fillRule="0" gXpos="1106.8310082292" gYpos="61.2763363387512" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="695.275590551" YPOS="893.385826770126" OwnPage="1" ItemID="194229440" PTYPE="6" WIDTH="603.779527558874" HEIGHT="57.0978627671541" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PCOLOR="Orange PT166" SHADE="90" PLINEART="1" ANNAME="u2616" path="M0 0 L0 57.0979 L603.78 57.0979 L603.78 0 L0 0 Z" copath="M0 0 L0 57.0979 L603.78 57.0979 L603.78 0 L0 0 Z" fillRule="0" gXpos="695.275590551" gYpos="893.385826770126" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="139.810039370199" YPOS="1313.73031495757" OwnPage="1" ItemID="194203952" PTYPE="4" WIDTH="351.246062991885" HEIGHT="255.576771653543" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" SHADE="10" PLINEART="1" ANNAME="u21f5" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 255.577 L351.246 255.577 L351.246 0 L0 0 Z" copath="M0 0 L0 255.577 L351.246 255.577 L351.246 0 L0 0 Z" fillRule="0" gXpos="139.810039370199" gYpos="1313.73031495757" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail PARENT="TOC - Head 1" LINESPMode="1" INDENT="8.50393700787402"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="922.047244094247" YPOS="1067.71653543154" OwnPage="2" ItemID="194232272" PTYPE="4" WIDTH="328.818897637675" HEIGHT="608.031496061465" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="uba3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 608.031 L328.819 608.031 L328.819 0 L0 0 Z" copath="M0 0 L0 608.031 L328.819 608.031 L328.819 0 L0 0 Z" fillRule="0" gXpos="922.047244094247" gYpos="1067.71653543154" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="195985152" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" CH="Open Source Software (OSS) ist aus der modernen Softwareentwicklung nicht mehr wegzudenken. OSS ist in fast allen elektronischen Produkten enthalten, einschließlich Supercomputern, Cloud-Servern, Personalcomputern, Unterhaltungselektronik, Automobilen, Industrieausrüstungen und IoT-Geräten. Unternehmen müssen Produkte oder Dienstleistungen mit hoher Qualität und einer schnelleren Markteinführungszeit entwickeln, auch in einem intensiven Wettbewerb. Sie müssen auch mit den neuesten Technologietrends Schritt halten. OSS ist dabei unverzichtbar."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" CH="Eine große Anzahl an OSS wird durch die Zusammenarbeit von Softwareentwicklungsexperten aus verschiedenen Organisationen auf der ganzen Welt entwickelt. OSS ist häufig ein Vehikel für fortschrittliche Innovationen in verschiedenen Bereichen. Softwareentwickler, die an der Open Source-Entwicklung teilnehmen, haben die Möglichkeit, ihre Fähigkeiten zu verbessern und diese Innovation aus erster Hand zu erleben."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" CH="OSS kann von jedem frei verwendet, modifiziert und vertrieben werden, der die entsprechenden Lizenzbedingungen einhält. Wenn OSS vertrieben wird, muss der Vertriebshändler zum Zeitpunkt des Vertriebs die Bedingungen der Lizenz einhalten. Es gab Fälle, in denen Händler verklagt wurden und verloren gingen, weil sie ihren gesetzlichen Verpflichtungen nicht nachkamen. Um die durch den Einsatz von OSS verursachten Risiken zu verringern, müssen alle relevanten Mitarbeiter mit den Grundprinzipien von OSS vertraut sein."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" CH="Diese Broschüre wurde vom OpenChain-Projekt der Linux Foundation verfasst, um möglichst vielen Menschen die Grundprinzipien von OSS zu erläutern."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit" CH="Mai 2019"/>
+                <para PARENT="Body" ALIGN="2" LINESPMode="1"/>
+                <para PARENT="Body" ALIGN="2" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Open Source Software"/>
+                <ITEXT FONT="Avenir Next W1G Regular" CH=" kennenlernen"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" CH="Lernen wir die Grundlagen von Open Source Software (OSS) kennen."/>
+                <para PARENT="Head 1 Color | sub" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | sub" ALIGN="0" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit" CH="In dieser Broschüre wird Folgendes erklärt:"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <tab FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit" CH="1．Was ist Open Source Software?"/>
+                <para PARENT="Body 前後0 M" LINESPMode="1" INDENT="21.1771653543307" FIRST="-21.1771653543307">
+                    <Tabs Type="0" Pos="7.67716535433071" Fill=""/>
+                    <Tabs Type="0" Pos="9.56496062992142" Fill=""/>
+                    <Tabs Type="0" Pos="14.0649606299214" Fill=""/>
+                </para>
+                <tab FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit" CH="2．"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" CH="Was man tun muss, um die Vorteile aus OSS ziehen zu können"/>
+                <para PARENT="Body 前後0 M" LINESPMode="1" INDENT="21.1771653543307" FIRST="-21.1771653543307">
+                    <Tabs Type="0" Pos="7.67716535433071" Fill=""/>
+                    <Tabs Type="0" Pos="9.56496062992142" Fill=""/>
+                    <Tabs Type="0" Pos="14.0649606299214" Fill=""/>
+                </para>
+                <tab FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit" CH="3．Risiken im Kontext einer Nichteinhaltung von OSS-Verpflichtungen "/>
+                <para PARENT="Body 前後0 M" LINESPMode="1" INDENT="21.1771653543307" FIRST="-21.1771653543307">
+                    <Tabs Type="0" Pos="7.67716535433071" Fill=""/>
+                    <Tabs Type="0" Pos="9.56496062992142" Fill=""/>
+                    <Tabs Type="0" Pos="14.0649606299214" Fill=""/>
+                </para>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" CH="Leider gab es Fälle, in denen Unternehmen ihren OSS-Lizenzverpflichtungen nicht nachkamen und dies zu Rechtsstreitigkeiten mit den Urheberrechtsinhabern führte."/>
+                <para PARENT="Body 前後2" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit" CH="　4．"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" CH="Die Problematik der Lieferkette"/>
+                <para PARENT="Body 前後0 M" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit" CH="　5．Was man tun muss, um sicherzustellen, dass alle von OSS profitieren"/>
+                <para PARENT="Body 前後0 M" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" CH="Die Punkte 3 und 4 können miteinander verflochten sein. Wenn OSS über eine Lieferkette erworben wird, müssen alle Glieder in der Lieferkette die Lizenzverpflichtungen erfüllen. Wenn ein Kettenglied die Lizenzverpflichtungen nicht erfüllt, können Unternehmen in der weiteren Lieferkette dies aufgrund fehlender Lizenzbedingungen nicht beheben. Ein Mitarbeiter oder ein Unternehmen, das alleine handelt, kann nicht alle Verpflichtungen und Anforderungen selbst erfüllen."/>
+                <para PARENT="Body" LINESPMode="1" VOR="5.66929133858268"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit" CH="Wenn ein Artikel mit OSS-Software an Dritte geliefert wird, müssen Informationen zu jeder enthaltenen OSS bereitgestellt werden. Folgende Gruppen von Mitarbeitern müssen die ordnungsgemäßen Verfahren für Erwerb und Distribution von OSS kennen::"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit" CH="Softwareentwicklung und Engineering: "/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" CH="Neben Softwareentwicklern sind auch Hardwareingenieure maßgeblich an der Entwicklung von Gerätetreibersoftware, Board Support Packages (BSP) und Software Development Kits (SDKs) für ihre Hardware beteiligt."/>
+                <para PARENT="Bullet list \: 区切り" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit" CH="Einkauf:  OSS kann in Liefergegenständen aus der Lieferkette enthalten sein, z. B. Software, Hardwaremodule, SoCs, Halbleiterprodukte und Produkte, die von ODM / OEM-Herstellern entworfen und entwickelt wurden. "/>
+                <para PARENT="Bullet list \: 区切り" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit" CH="Vertrieb: "/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" CH="Der Vertrieb muss die Gründe verstehen, aus denen Kunden die OSS-bezogenen Informationen benötigen, einschließlich Urheberrechts- und Lizenzinformationen."/>
+                <para PARENT="Bullet list \: 区切り" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit" CH="Qualitätssicherung: "/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" CH=" OSS, welche in einem Produkt enthalten ist, kann dessen Qualität beeinträchtigen oder Fehler verursachen. Mitarbeiter in der QS müssen sich solcher Probleme bewusst sein."/>
+                <para PARENT="Bullet list \: 区切り" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit" CH="Rechtsabteilung / Lizenzmanagement: "/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" CH="Mitarbeiter der Rechtsabteilung und des Lizenzmanagements müssen Gesetze, Präzedenzfälle und Rechtsmittel kennen, die sich auf die Auslegung und Einhaltung von OSS-Lizenzen beziehen."/>
+                <para PARENT="Bullet list \: 区切り" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" CH="Führungskräfte und Manager: Führungskräfte und Manager entwickeln Strategien, um Open Source zu nutzen, dazu beizutragen und zu verbreiten. Sie bilden Teams, um die OSS-Nutzung zu fördern; sie überwachen die OSS-Prozesse und investieren in die erforderlichen Software-Tools."/>
+                <para PARENT="Bullet list last" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="10" FEATURES="inherit" CH="*ODM: Original Design Manufacturer    OEM: Original Equipment Manufacturer"/>
+                <para PARENT="Footnote 7" LINESPMode="1" INDENT="11.3385826771654" FIRST="0"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Medium" FONTSIZE="11" FEATURES="inherit" CH="Definition of OSS"/>
+                <para PARENT="Head 2 Black" LINESPMode="1" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="8.8" FEATURES="inherit" CH="It is not easy to answer precisely “What is OSS?”. Different people have different answers. However, most people would agree with the following: "/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="8.8" FEATURES="inherit" CH="OSS is software for which the source code is provided. And the copyright holder allows others to use, inspect, modify, and share the software. "/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13" INDENT="14.1732283464567"/>
+                <ITEXT FONT="Avenir Next W1G Medium" FONTSIZE="11" FEATURES="inherit" CH="Examples of OSS"/>
+                <para PARENT="Head 2 Black" LINESPMode="1" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="8.8" FEATURES="inherit" CH="Linux is probably the most widely known example of Open Source Software. An Operating System (OS) is software that is designed to provide a platform for other software. Linux is one such operating system. Linux is everywhere. It is incorporated into almost every major computing system, including super computers, stock exchange servers, Internet servers, smartphones using the Android software stack, consumer electronics products, automobiles, and industrial equipment. Linux supports a large portion of the world’s core technological infrastructure. "/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="8.8" FEATURES="inherit" CH="Linux has been developed through the collaboration of tens of thousands of developers from around the world. Linux development continues actively every day. Anyone can freely use, modify and distribute Linux, provided they abide by the conditions of the license that the Linux developers have chosen. It is very important that companies that use Linux understand and comply with the license terms for Linux. "/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="8.8" FEATURES="inherit" CH="In addition to Linux, there are a huge number of other OSS projects. These include the Apache project used for HTTP servers, the widely used compiler GNU Compiler Collection (GCC), and the Eclipse integrated development environment, to name just a few."/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Medium" FONTSIZE="11" FEATURES="inherit" CH="OSS and license"/>
+                <para PARENT="Head 2 Black" LINESPMode="1" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="8.8" FEATURES="inherit" CH="A copyright holder of OSS does not waive their copyright in the code, but grants users certain rights to the software based on the user’s adherence to the conditions of the software’s license. In some cases, a copyright holder may grant users a patent license. It is critical for users of Open Source software to understand the license of each piece of OSS they use."/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13"/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13"/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13"/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="8.8" FEATURES="inherit" CH="Almost all OSS licenses disclaim liability for OSS developers. In almost all cases, the OSS developers do not take responsibility for usage of OSS; but require users, product integrators, and vendors to take this responsibility on themselves. "/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="8.8" FEATURES="inherit" CH="Not all software is covered by copyright. If you need to judge whether a particular piece of OSS is copyrighted material or not, you should consult with a lawyer or intellectual property expert."/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Medium" FONTSIZE="11" FEATURES="inherit" CH="What is granted by license (copyright)"/>
+                <para PARENT="Head 2 Black" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="8.8" FEATURES="inherit" CH="With some OSS licenses, the copyright holder grants others the right to use or distribute the software. This license grant occurs without direct communication between the copyright holder and the user, but this right-of-use is only granted if the user adheres with conditions provided by the copyright holder in the license. When a user fails to comply with these license conditions, a serious issue arises."/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Medium" FONTSIZE="11" FEATURES="inherit" CH="What is granted by license (patent)"/>
+                <para PARENT="Head 2 Black" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="8.8" FEATURES="inherit" CH="With some OSS licenses, the copyright holder of OSS grants others the right to freely use the patents that are practiced by the software and owned by the copyright holder. Not every OSS license grants such a patent license. Examples of licenses that include such patent grants are the Apache license, and the GNU General Public License (GPL) version 3. "/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Medium" FONTSIZE="11" FEATURES="inherit" CH="Typical OSS license"/>
+                <para PARENT="Head 2 Black" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="8.8" FEATURES="inherit" CH="The Open Source Initiative (OSI) is an organization that promotes OSS. It defines the criteria for what constitutes OSS and approves dozens of different licenses as valid OSS licenses."/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="8.8" CH="https://opensource.org/licenses"/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13" NACH="0"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="8.8" CH="https://opensource.org/osd"/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="8.8" FEATURES="inherit" CH="Most OSS is licensed under an OSI-approved license. In addition, some software that is licensed under non-OSI-approved license may be treated as Open Source software as well. Whether such software should be treated as OSS (or handled some other way) should be determined by agreement between the software supplier and the recipient."/>
+                <para PARENT="Body" LINESPMode="0" LINESP="13"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1" RMARGIN="25.511811023622"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1" RMARGIN="25.511811023622"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1" RMARGIN="25.511811023622"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1" RMARGIN="25.511811023622"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1" RMARGIN="25.511811023622"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1" RMARGIN="25.511811023622"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1" RMARGIN="25.511811023622"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1" RMARGIN="25.511811023622"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1" RMARGIN="25.511811023622"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1" RMARGIN="25.511811023622"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="What you need to do to receive the benefits of OSS"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1" RMARGIN="25.511811023622"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="When you use OSS, the most important thing to know is your obliga­­tions related to distribution of the software."/>
+                <para PARENT="Head 1 Color | sub" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Almost all OSS licenses define the followings:"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="The OSS developer disclaims liability for the effects of using the software"/>
+                <para PARENT="Bullet list" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Some obligations must be fulfilled when the software is distributed by an individual or legal entity (distributor)."/>
+                <para PARENT="Bullet list last" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="In the following sections, a distributor can mean either an individual or a legal entity such as a company."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Anyone who complies with the conditions of the license may freely use and distribute the software."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="However, the conditions differ from license to license. Some licenses require only that a license notice and a copyright notice be included in the source publication. Other licenses require the disclosure of the source code and a written offer to obtain it. Some licenses have terms that affect what other OSS the first software may be used in combination with. A distributor is required to comply with all of the obligations defined in the license."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="There are several ways to distribute software. One way is to sell a product that incorporates the OSS software. Another way is by providing a site from which the software may be downloaded. When an item that contains OSS is distributed, the entity that is distributing it is required to comply with the license for that OSS."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Examples of OSS distribution"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="There are several different ways OSS may be distributed. In every case, the distributor is required to comply with the OSS license."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="1."/>
+                <tab FONT="Avenir Next W1G Regular" FEATURES="inherit"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="One way to distribute OSS is to develop a product using an SDK (software development kit) provided by a semiconductor vendor. If OSS that is included in the SDK is incorporated into a product during development, then this means that the semiconductor vendor is distributing OSS via inclusion in the SDK, and the product developer is distributing OSS via inclusion in the product. In this case, the product vendor has responsibilities to fulfill to comply with the license. But they are dependent on the semiconductor vendor. If the semiconductor vendor does not provide appropriate information about the OSS included in the SDK, the product vendor cannot comply with the OSS license."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="2."/>
+                <tab FONT="Avenir Next W1G Regular" FEATURES="inherit"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Another way that OSS might be distributed is when an ODM or OEM is entrusted with the design and development of a product for manufacturers. The ODM or OEM may incorporate OSS into the product, which the product distributor needs to know about."/>
+                <para PARENT="Body" LINESPMode="1" NACH="5.66929133858268"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Even though an OEM or ODM made the product, the brand owner of the product distributes the OSS incorporated into the product. The brand owner is required to comply with the OSS license. If the ODM or OEM manufacturer does not provide appropriate information about OSS, the brand owner of the product cannot comply with the OSS license."/>
+                <para PARENT="Body" LINESPMode="1" NACH="5.66929133858268"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="3."/>
+                <tab FONT="Avenir Next W1G Regular" FEATURES="inherit"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Other ways of distributing OSS include shipping a product, releasing mobile application software, or providing an update of software for a previously shipped device."/>
+                <para PARENT="Body" LINESPMode="1" NACH="5.66929133858268"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="If OSS is included in a product, mobile application, or software update, this constitutes distribution of OSS. The entity who ships the product or releases the software is required to comply with the OSS license."/>
+                <para PARENT="Body" LINESPMode="1" NACH="8.50393700787402"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="4."/>
+                <tab FONT="Avenir Next W1G Regular" FEATURES="inherit"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="JavaScript used in web pages constitutes distribution:"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH=" An interesting case of OSS distribution may occur when a web page is transferred to a user’s machine."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="JavaScript that is included in web pages is transferred from the web server to the browser on the user’s machine, as part of the page data, when the user accesses the page. If the JavaScript program is OSS, then this constitutes distribution and the license terms will apply."/>
+                <para PARENT="Body" LINESPMode="1" NACH="5.66929133858268"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Obligations to be fulfilled when OSS is distributed"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="The obligations that need to be fulfilled when OSS is distributed vary from license to license. It is important to identify all of the OSS and associated licenses in a product or program that is distributed."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="This is required to clearly understand all the different license terms that must be satisfied. "/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Permissive licenses"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="The MIT license, the BSD license and the Apache license require few obligations. These licenses require the distribution of the software’s copyright notice and the license text. The notice should be clearly displayed in a place where the person receiving the OSS can read it."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Reciprocal licenses"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="The GPL license, the LGPL license, the AGPL license, and the Mozilla Public License require disclosure of the source code for the associated software. (The license and the copyright in the source code must not be removed.) If the distributor has modified the source code, then all source code modifications must also be disclosed. Reciprocal licenses aim to foster an environment where people can share modifications and improvements among all users and developers of the software. "/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="In addition to the disclosure of the source code, these licenses generally require other obligations to be met as well. To distribute software under a reciprocal license you must understand these obligations. If needed, you should consult with your legal and intellectual property staff."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Patents that you cannot grant"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="In some cases, an OSS license may require a distributor to grant their users a license for patents embodied in the software that the distributor uses or adds to the OSS. If you have such a patent, that you cannot grant your users a license to, you must not distribute OSS covered by such license terms."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Risks caused by failure to comply"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Litigation by an OSS copyright holder against a company for failure to comply with the license has occurred."/>
+                <para PARENT="Head 1 Color | sub" ALIGN="0" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Unfortunately, it has occurred that failure to comply with the OSS license resulted in litigation against the user (and distributor) by the OSS copyright holders. In at least one case, a judgement required the defendant to suspend the shipment of their products containing OSS."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="In December of 2009 there was a lawsuit related to Open Source software called “Busybox”. The Busybox program is widely incorporated into embedded systems and is licensed under the GPL version 2 license. In this case, 14 companies were the subject of the lawsuit, including some in the consumer electronics industry. The remarkable thing about this case was that companies suffered litigation on products that had been made by an ODM manufacturer."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="In every case, it was the distributor’s failure to comply with the OSS license that resulted in the litigation. To avoid litigation, an entity working with OSS should:"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Identify every piece of OSS in the software to be distributed"/>
+                <para PARENT="Bullet list" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Understand the obligations defined by the OSS license, and comply with them."/>
+                <para PARENT="Bullet list" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="What is lost in litigation"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="When a company is litigated, one of the largest damages to the company is to its reputation (reputational risk). A bad reputation of not complying with software licenses may cause a company to lose the trust of other companies. The more that a company understands the importance of its trust relationships, and endeavors to build trust throughout its industry, the more serious that company is about avoiding risks to its reputation."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="To respond to litigation requires a lot of work and expense. In the absence of litigation, the human resources involved in legal, procurement, engineering, and compliance could be used in more constructive tasks. This means that a company spending time responding to litigation might miss out on other business opportunities that those human resources could be working on. In particular, employing a competent lawyer for OSS litigation is very expensive."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="A settlement or a legal judgement may require payment of money or a fine. In the extreme, a judgement could result in the suspension of shipment of a product, which could be quite damaging and costly. "/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Building a good relationship with the OSS community"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="To reduce the risk of litigation, it is essential to understand OSS principles and to comply with the obligations of the OSS licenses. In addition, it is highly recommended to contribute to the OSS community and to build good relationships with the developers of the OSS that you use."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="If you understand why the authors selected a specific Open Source license for their software, and the intent of the OSS community that supports an OSS project, it will help you move beyond just fulfilling the letter of the OSS license. Understanding the intent of the developers is one of the most important benefits of having a good relationship with the OSS community."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="A good relationship with the OSS community may enable a company to have its own new ideas adopted into the OSS. The OSS community may improve software based on your ideas and requirements. Also, engineers in your company may have the opportunity to collaborate with highly skilled OSS developers, and this could result in more satisfaction and skill for your engineers."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="As the system software increases in size and functionality, it becomes more and more complex. It is harder and harder to produce software without bugs. However, if a company has a good relationship with OSS developers, the community may help your engineers find and resolve bugs, as the software is developed."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Contributing to OSS communities"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="There are many ways to contribute to OSS communities: proposing bugfixes and new features, translating documents, providing places and forums where community members can communicate, and sponsoring and participating in projects and trade associations that support OSS, such as the Linux Foundation."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Supply chain issues"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="OSS compliance cannot be achieved by one person acting alone."/>
+                <para PARENT="Head 1 Color | sub" ALIGN="0" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="As software becomes larger and more complex, the supply chain for software also tends to become larger and more complex. A modern software supply chain may include an OSS community, a software supplier, a semiconductor vendor that provides an SDK, and a final product vendor. If any member of a large and complex software supply chain fails to comply with license obligations or fails to provide the appropriate license information, it will cause a large impact to a vendor who is obligated to comply with the license (Figure 1). Compliance failure could result in product shipment being suspended. If the vendor does not know about the failure before shipping, the vendor may receive an inquiry regarding the failure from a copyright holder or a third party, which it cannot respond to."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="However, if software compliance is managed appropriately in the upstream supply chain, these problems can be avoided. To facilitate compliance with OSS licenses, all participants in the supply chain must do their duty, build trust throughout the supply chain, and communicate appropriate information regarding included software."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="It is recommended that each company in the supply chain establish a team to ensure OSS compliance in the chain. The Linux Foundation’s OpenChain project provides a Self Certification program that companies can use for this purpose. The Self Certification helps a company check its compliance process. The certification test is available in several languages and anyone can use it for free."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Body Before bullet" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Requirements for participants in the supply chain"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="When a supplier distributes software, the supplier is required to provide to each recipient the information that is needed to comply with the OSS license. A recipient should review the data and files carefully and verify that they are accurate."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="A software distributor may include software from multiple suppliers for a single product. In this case, the distributor is required to receive information about each OSS component it receives, along with the software."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="If information about an OSS component is not received, such OSS should not be incorporated into a product."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Different roles in a company have different responsibilities for OSS compliance"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Software developers"/>
+                <para PARENT="Head 3 Slate" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Software developers should manage, record and store the configuration of the software. This includes the following:"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="OSS and its license"/>
+                <para PARENT="Bullet list" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Linkage (e.g. libraries used by the software, dynamic or static linkage, etc.) "/>
+                <para PARENT="Bullet list" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Modifications. That is, the technical details of any modifications made to the software."/>
+                <para PARENT="Bullet list last" LINESPMode="1" NACH="8.50393700787402"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="These items must be identified and listed. Any time the software configuration changes, the list should be updated. The license may change from one release of software to the next, for a particular project. It is recommended to create and manage the list so that each OSS item is easily referenced and reviewed. Some licenses (for example, the GPL license) require a distributor to disclose the source code. It is highly recommended that source control management software is used to track the original source code and any changes to the source code."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Software procurement personnel"/>
+                <para PARENT="Head 3 Slate" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Software procurement personnel must receive information about any OSS in the incoming software, for software engineers to record. OSS may be included in software like the SDK provided by a semiconductor vendor."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Procurement personnel are required to pay attention to the software in all the different kinds of deliverables that the company receives."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Sales personnel"/>
+                <para PARENT="Head 3 Slate" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Sales personnel are required to communicate with customers regarding OSS. A customer may have special requirements related to the use of OSS. For example, a company may have an OSS policy that precludes it from using OSS with specific licenses."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="It is important for sales personnel learn of customers’ requirements regarding OSS, and communicate this information to internal software developers."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Legal / Intellectual property personnel"/>
+                <para PARENT="Head 3 Slate" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Cooperation with legal and intellectual property personnel is indispensable for understanding OSS licenses. Legal and intellectual property personnel should review the licenses that govern the OSS used by a company and advise developers as to its use:"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="What approvals are needed for using OSS?  (In general, OSS licenses disclaim liability for the developer of the software.)"/>
+                <para PARENT="Bullet list" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="What is required in order to distribute the OSS?"/>
+                <para PARENT="Bullet list" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Can the inclusion of OSS cause a problem when the software is used by downstream recipients?"/>
+                <para PARENT="Bullet list" LINESPMode="1" NACH="5.66929133858268"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Executives and Managers"/>
+                <para PARENT="Head 3 Slate" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="To use OSS effectively and appropriately requires the cooperation of different staff inside a company."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Executives and managers may need to facilitate coordination between internal organizations and may decide to establish a dedicated team to manage OSS-related issues. This includes investments in human resources, training, and development environments. "/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="OSS information required to be delivered with software"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="To ensure that everyone benefits from OSS, people must know what information regarding OSS must be provided with software deliverables."/>
+                <para PARENT="Head 1 Color | sub" LINESPMode="1"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="This pamphlet has explained the importance of maintaining the list of OSS and of complying with OSS licenses."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="What information regarding OSS should be provided with software deliverables? This section explains the specific information that must be distributed with OSS. Because the required information varies depending on business and company policy, please communicate with each recipient company for details. "/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="When no OSS is included in software deliverables, you should clearly communicate that “the deliverable does not include any OSS” to recipients. The recipient may then act accordingly."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="When OSS is included in software deliverables, you must clearly identify such software, and its license. For example, the license may change between different versions of OSS. The name and version of each OSS component is indispensable information. For each component it is helpful to provide the download location or main project source site or web site for the software. This allows recipients to verify the information about the software, its version and license. "/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="When the OSS license requires the distributor to disclose source code, please provide the source code. The source code that is specifically required depends on the OSS license. For example, version 3 of the GPL/LGPL 3 license requires that in addition to the source code for the software, you must also provide information needed to re-install a modified binary based on the code."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="information that must be distributed with OSS"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="The following information must be distributed with your deliverables that include OSS."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="List of OSS components"/>
+                <para PARENT="Bullet list" LINESPMode="1" NACH="8.50393700787402"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="For each OSS component:"/>
+                <para PARENT="Body bold gray" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Information which identifies the software (version number, origin of the source code (for example, website URL) and how the software can be obtained)"/>
+                <para PARENT="Bullet list" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="List of applicable licenses, and (if more than one) the license your company is distributing the OSS under"/>
+                <para PARENT="Bullet list" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Any modifications you made to the software"/>
+                <para PARENT="Bullet list last" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="For OSS where the license requires the distributor to provide license and copyright notices:"/>
+                <para PARENT="Body bold gray" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="The actual license text and copyright notices"/>
+                <para PARENT="Bullet list last" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="For OSS where the license requires disclosure of source code:"/>
+                <para PARENT="Body bold gray" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="The required source code (In the case of GPL, in addition to the source code you must also provide the scripts used for generation of the executables created from the source)"/>
+                <para PARENT="Bullet list last" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="In some cases, where an OSS component itself includes a secondary piece of OSS, you must provide information for the secondary OSS component as well."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="The preceding information is fairly general. One customer may require certain pieces of information, while a different customer may require other information instead. It is important to communicate with your customers regarding the pieces of information they require and the format of them."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="SPDX project"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="SPDX®（Software Package Data Exchange®）  project, hosted by the Linux Foundation,  has a standardized format for exchanging license information."/>
+                <para PARENT="Body Before bullet" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Anyone can use this format, and it is highly recommended for use throughout the supply chain. Please find information about this format at:"/>
+                <para PARENT="Body Before bullet" LINESPMode="1"/>
+                <para PARENT="Body Before bullet" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Source code scanning tools"/>
+                <para PARENT="Head 2 Black" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="There are scanning tools that can detect OSS in software packages and automatically generate some information. For example, the FOSSology project hosted by the Linux Foundation has developed such a scanning tool. The FOSSology tool is available under an OSS license and can be freely used by anyone. There are also other scanning tools available, with commercial licenses. It is recommended to use tools such as these to verify OSS licenses in software packages during development and before shipping."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Some scanning tools have the ability to generate reports based on the SPDX specification. These scanning tools are useful for generating information that can be directly included in the deliverables to a customer."/>
+                <para PARENT="Body" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="1542.93203149301" OwnPage="1" ItemID="194206784" PTYPE="4" WIDTH="328.818897637675" HEIGHT="132.816" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u510" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 132.816 L328.819 132.816 L328.819 0 L0 0 Z" copath="M0 0 L0 132.816 L328.819 132.816 L328.819 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="1542.93203149301" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail PARENT="Content Providers" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="1066.2992125969" OwnPage="1" ItemID="194218112" PTYPE="4" WIDTH="351.246062992005" HEIGHT="19.8425196850393" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1c6f" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 19.8425 L351.246 19.8425 L351.246 0 L0 0 Z" copath="M0 0 L0 19.8425 L351.246 19.8425 L351.246 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="1066.2992125969" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Einführung"/>
+                <para PARENT="TOC - Head 1" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="1097.92303149469" OwnPage="1" ItemID="194215280" PTYPE="4" WIDTH="351.246062992005" HEIGHT="19.8425196850394" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1dc6" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 19.8425 L351.246 19.8425 L351.246 0 L0 0 Z" copath="M0 0 L0 19.8425 L351.246 19.8425 L351.246 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="1097.92303149469" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit" CH="Open Source Software kennenlernen 2"/>
+                <para PARENT="TOC - Head 1" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="1129.54685039248" OwnPage="1" ItemID="194209616" PTYPE="4" WIDTH="351.246062992005" HEIGHT="19.8425196850394" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1de2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 19.8425 L351.246 19.8425 L351.246 0 L0 0 Z" copath="M0 0 L0 19.8425 L351.246 19.8425 L351.246 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="1129.54685039248" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit" CH="Was man tun muss, um die Vorteile aus OSS ziehen zu können 4"/>
+                <para PARENT="TOC - Head 1" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="1161.17066929027" OwnPage="1" ItemID="194212448" PTYPE="4" WIDTH="351.246062992005" HEIGHT="19.8425196850393" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1dfe" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 19.8425 L351.246 19.8425 L351.246 0 L0 0 Z" copath="M0 0 L0 19.8425 L351.246 19.8425 L351.246 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="1161.17066929027" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit" CH="Risiken durch Nichtbeachtung 6"/>
+                <para PARENT="TOC - Head 1" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="1192.79448818806" OwnPage="1" ItemID="194220944" PTYPE="4" WIDTH="351.246062992005" HEIGHT="19.8425196850393" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1e1a" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 19.8425 L351.246 19.8425 L351.246 0 L0 0 Z" copath="M0 0 L0 19.8425 L351.246 19.8425 L351.246 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="1192.79448818806" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit" CH="Themen der Lieferkette  8"/>
+                <para PARENT="TOC - Head 1" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="1224.41830708585" OwnPage="1" ItemID="195968160" PTYPE="4" WIDTH="351.246062992005" HEIGHT="19.8425196850394" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1e37" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 19.8425 L351.246 19.8425 L351.246 0 L0 0 Z" copath="M0 0 L0 19.8425 L351.246 19.8425 L351.246 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="1224.41830708585" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit" CH="OSS-Information, welche mit der Software geliefert werden muss 0"/>
+                <para PARENT="TOC - Head 1" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.685039370199" YPOS="1026.61417322682" OwnPage="1" ItemID="195976656" PTYPE="4" WIDTH="150" HEIGHT="24.3779527551413" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.283464566929134" PLINEART="1" ANNAME="u2227" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 24.378 L150 24.378 L150 0 L0 0 Z" copath="M0 0 L0 24.378 L150 24.378 L150 0 L0 0 Z" fillRule="0" gXpos="139.685039370199" gYpos="1026.61417322682" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Inhalt"/>
+                <para PARENT="Head 1 Color | " LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="922.165354330437" YPOS="1026.61417322682" OwnPage="2" ItemID="195979488" PTYPE="4" WIDTH="232.32283464576" HEIGHT="28.3464566929133" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.283464566929134" PLINEART="1" ANNAME="u25e5" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 28.3465 L232.323 28.3465 L232.323 0 L0 0 Z" copath="M0 0 L0 28.3465 L232.323 28.3465 L232.323 0 L0 0 Z" fillRule="0" gXpos="922.165354330437" gYpos="1026.61417322682" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Einführung"/>
+                <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="962.44297104565" YPOS="1511.15633981101" OwnPage="2" ItemID="195982320" PTYPE="2" WIDTH="277.466653226401" HEIGHT="166.757458589068" FRTYPE="3" CLIPEDIT="1" ROT="356" PWIDTH="0" PLINEART="1" ANNAME="u26de" LOCALSCX="0.0400906683965307" LOCALSCY="0.0374487075653165" LOCALX="0" LOCALY="497.054826020363" LOCALROT="-3.99999999999953" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../en/GFX/Idee.jpeg" IRENDER="0" EMBEDDED="0" path="M0 1.16529e-12 L7.10543e-13 166.757 L277.467 166.757 L277.467 0 L0 1.16529e-12 Z" copath="M0 1.16529e-12 L7.10543e-13 166.757 L277.467 166.757 L277.467 0 L0 1.16529e-12 Z" fillRule="0" gXpos="962.44297104565" gYpos="1511.15633981101" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1340.15932228198" YPOS="1524.51962621924" OwnPage="-1" ItemID="195956832" PTYPE="2" WIDTH="252.242412024001" HEIGHT="151.597689626425" FRTYPE="3" CLIPEDIT="1" ROT="356" PWIDTH="0" PLINEART="1" ANNAME="u27ef" LOCALSCX="0.0364460621786651" LOCALSCY="0.0340442796048352" LOCALX="0" LOCALY="497.054826020048" LOCALROT="-3.99999999999713" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../en/GFX/Idee.jpeg" IRENDER="0" EMBEDDED="0" path="M0 1.08002e-12 L6.82121e-13 151.598 L252.242 151.598 L252.242 0 L0 1.08002e-12 Z" copath="M0 1.08002e-12 L6.82121e-13 151.598 L252.242 151.598 L252.242 0 L0 1.08002e-12 Z" fillRule="0" gXpos="1340.15932228198" gYpos="1524.51962621924" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="805.217122700528" YPOS="931.086614171701" OwnPage="2" ItemID="195959664" PTYPE="4" WIDTH="445.649019031394" HEIGHT="13.1338582684804" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.283464566929134" PLINEART="1" ANNAME="u27d6" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 13.1339 L445.649 13.1339 L445.649 0 L0 0 Z" copath="M0 0 L0 13.1339 L445.649 13.1339 L445.649 0 L0 0 Z" fillRule="0" gXpos="805.217122700528" gYpos="931.086614171701" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit" CH="Open Source Software License Compliance General Public Guide"/>
+                <para PARENT="PageTop Header " LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="746.299212598244" YPOS="1948.1889763749" OwnPage="4" ItemID="195973824" PTYPE="4" WIDTH="504.566929133677" HEIGHT="628.933244093725" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u547" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="28.3464566929134" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 628.933 L504.567 628.933 L504.567 0 L0 0 Z" copath="M0 0 L0 628.933 L504.567 628.933 L504.567 0 L0 0 Z" fillRule="0" gXpos="746.299212598244" gYpos="1948.1889763749" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="195990816" BACKITEM="195987984"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="1868.81889763474" OwnPage="3" ItemID="195985152" PTYPE="4" WIDTH="328.818897637675" HEIGHT="63.4015748031497" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="ubc6" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 63.4016 L328.819 63.4016 L328.819 0 L0 0 Z" copath="M0 0 L0 63.4016 L328.819 63.4016 L328.819 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="1868.81889763474" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="195987984" BACKITEM="194232272"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="1949.60629920954" OwnPage="3" ItemID="195987984" PTYPE="4" WIDTH="328.818897637675" HEIGHT="608.031496061465" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1909" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 608.031 L328.819 608.031 L328.819 0 L0 0 Z" copath="M0 0 L0 608.031 L328.819 608.031 L328.819 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="1949.60629920954" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="195973824" BACKITEM="195985152"/>
+        <PAGEOBJECT XPOS="746.299212598244" YPOS="2750.70866141274" OwnPage="6" ItemID="195962496" PTYPE="4" WIDTH="504.566929133677" HEIGHT="688.818897636268" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u590" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="28.3464566929134" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 688.819 L504.567 688.819 L504.567 0 L0 0 Z" copath="M0 0 L0 688.819 L504.567 688.819 L504.567 0 L0 0 Z" fillRule="0" gXpos="746.299212598244" gYpos="2750.70866141274" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="196010640" BACKITEM="195965328"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="2750.70866141274" OwnPage="5" ItemID="195990816" PTYPE="4" WIDTH="328.818897637675" HEIGHT="80.7874015748029" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u5a6" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 80.7874 L328.819 80.7874 L328.819 0 L0 0 Z" copath="M0 0 L0 80.7874 L328.819 80.7874 L328.819 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="2750.70866141274" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="195965328" BACKITEM="195973824"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="2861.2598425151" OwnPage="5" ItemID="195965328" PTYPE="4" WIDTH="328.818897637675" HEIGHT="574.015748026149" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1aa0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 574.016 L328.819 574.016 L328.819 0 L0 0 Z" copath="M0 0 L0 574.016 L328.819 574.016 L328.819 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="2861.2598425151" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="195962496" BACKITEM="195990816"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="3190.0787401529" OwnPage="5" ItemID="195993648" PTYPE="2" WIDTH="328.818897637674" HEIGHT="235.171275590464" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u25c2" TEXTFLOWMODE="2" LOCALSCX="0.0657637795275348" LOCALSCY="0.0657637795275348" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../en/GFX/File..jpeg" IRENDER="0" EMBEDDED="0" path="M0 0 L0 235.171 L328.819 235.171 L328.819 0 L0 0 Z" copath="M0 0 L0 235.171 L328.819 235.171 L328.819 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="3190.0787401529" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="139.685039370199" YPOS="3713.38582676554" OwnPage="7" ItemID="195996480" PTYPE="4" WIDTH="328.378378378378" HEIGHT="613.700787401574" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u2274" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 613.701 L328.378 613.701 L328.378 0 L0 0 Z" copath="M0 0 L0 613.701 L328.378 613.701 L328.378 0 L0 0 Z" fillRule="0" gXpos="139.685039370199" gYpos="3713.38582676554" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="195970992" BACKITEM="196010640"/>
+        <PAGEOBJECT XPOS="746.299212598244" YPOS="3713.38582676554" OwnPage="8" ItemID="195970992" PTYPE="4" WIDTH="504.566929133677" HEIGHT="446.456692913386" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u5d9" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="28.3464566929134" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 446.457 L504.567 446.457 L504.567 0 L0 0 Z" copath="M0 0 L0 446.457 L504.567 446.457 L504.567 0 L0 0 Z" fillRule="0" gXpos="746.299212598244" gYpos="3713.38582676554" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="196016304" BACKITEM="195996480"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="3632.59842519074" OwnPage="7" ItemID="196010640" PTYPE="4" WIDTH="328.818897637675" HEIGHT="49.6062992179455" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u5ef" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 49.6063 L328.819 49.6063 L328.819 0 L0 0 Z" copath="M0 0 L0 49.6063 L328.819 49.6063 L328.819 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="3632.59842519074" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="195996480" BACKITEM="195962496"/>
+        <PAGEOBJECT XPOS="139.685039370199" YPOS="4102.38894444863" OwnPage="7" ItemID="196019136" PTYPE="6" WIDTH="328.378378378378" HEIGHT="219.028378378378" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u2193" path="M0 0 L0 219.028 L328.378 219.028 L328.378 0 L0 0 Z" copath="M0 0 L0 219.028 L328.378 219.028 L328.378 0 L0 0 Z" fillRule="0" gXpos="139.685039370199" gYpos="4102.38894444863" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="139.685039370199" YPOS="3991.18110236144" OwnPage="7" ItemID="196013472" PTYPE="2" WIDTH="426.890842168579" HEIGHT="224.59245203749" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u25ca" LOCALSCX="0.0718429555988856" LOCALSCY="0.11337327210373" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../en/GFX/Wide cropped image of the outline of a businessman stopping the domino.jpeg" IRENDER="0" EMBEDDED="0" path="M0 0 L0 224.592 L426.891 224.592 L426.891 0 L0 0 Z" copath="M0 0 L0 224.592 L426.891 224.592 L426.891 0 L0 0 Z" fillRule="0" gXpos="139.685039370199" gYpos="3991.18110236144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="-285.511811023622" YPOS="3991.18110236144" OwnPage="-1" ItemID="195999312" PTYPE="2" WIDTH="328.378378378378" HEIGHT="172.763849468971" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u26f1" LOCALSCX="0.0552639478926924" LOCALSCY="0.0872104237602075" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../en/GFX/Wide cropped image of the outline of a businessman stopping the domino.jpeg" IRENDER="0" EMBEDDED="0" path="M0 0 L0 172.764 L328.378 172.764 L328.378 0 L0 0 Z" copath="M0 0 L0 172.764 L328.378 172.764 L328.378 0 L0 0 Z" fillRule="0" gXpos="-285.511811023622" gYpos="3991.18110236144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="139.685039370199" YPOS="4595.27559054354" OwnPage="9" ItemID="196004976" PTYPE="4" WIDTH="328.818897637554" HEIGHT="351.496062999" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u2296" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 351.496 L328.819 351.496 L328.819 0 L0 0 Z" copath="M0 0 L0 351.496 L328.819 351.496 L328.819 0 L0 0 Z" fillRule="0" gXpos="139.685039370199" gYpos="4595.27559054354" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="196007808" BACKITEM="196016304"/>
+        <PAGEOBJECT XPOS="746.299212598244" YPOS="4595.27559054354" OwnPage="10" ItemID="196007808" PTYPE="4" WIDTH="504.566929133677" HEIGHT="608.031496061464" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u622" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="28.3464566929134" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 608.031 L504.567 608.031 L504.567 0 L0 0 Z" copath="M0 0 L0 608.031 L504.567 608.031 L504.567 0 L0 0 Z" fillRule="0" gXpos="746.299212598244" gYpos="4595.27559054354" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="196061440" BACKITEM="196004976"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="4514.48818896874" OwnPage="9" ItemID="196016304" PTYPE="4" WIDTH="328.818897637675" HEIGHT="69.4488189045115" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u638" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 69.4488 L328.819 69.4488 L328.819 0 L0 0 Z" copath="M0 0 L0 69.4488 L328.819 69.4488 L328.819 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="4514.48818896874" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="196004976" BACKITEM="195970992"/>
+        <PAGEOBJECT XPOS="139.744094488008" YPOS="4933.75251870847" OwnPage="9" ItemID="196044448" PTYPE="12" WIDTH="363.208295446651" HEIGHT="266.088993094148" FRTYPE="0" CLIPEDIT="1" ANNAME="u23cc" groupWidth="363.208295446651" groupHeight="266.088993094148" groupClips="1" path="M0 0 L363.208 0 L363.208 266.089 L0 266.089 L0 0 Z" copath="M0 0 L363.208 0 L363.208 266.089 L0 266.089 L0 0 Z" fillRule="0" gXpos="139.744094488008" gYpos="4933.75251870847" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="144.356396892667" YPOS="4933.75251870847" OwnPage="9" ItemID="196002144" PTYPE="2" WIDTH="358.595993041992" HEIGHT="248.722290039063" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1c14" LOCALSCX="1.0003648843508" LOCALSCY="1.00036488435077" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../en/GFX/ソフトウェアサプライチェーン-E.ai" IRENDER="0" EMBEDDED="0" path="M0 0 L0 248.722 L358.596 248.722 L358.596 0 L0 0 Z" copath="M0 0 L0 248.722 L358.596 248.722 L358.596 0 L0 0 Z" fillRule="0" gXpos="4.61230240465898" gYpos="0" gWidth="363.208295446651" gHeight="266.088993094148" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="139.744094488008" YPOS="5183.77851968504" OwnPage="9" ItemID="196064272" PTYPE="4" WIDTH="336.377952755604" HEIGHT="16.0629921175841" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u23be" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 16.063 L336.378 16.063 L336.378 0 L0 0 Z" copath="M0 0 L0 16.063 L336.378 16.063 L336.378 0 L0 0 Z" fillRule="0" gXpos="0" gYpos="250.026000976563" gWidth="363.208295446651" gHeight="266.088993094148" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT FEATURES="inherit" CH="Figure 1　Software supply chain issues"/>
+                    <para PARENT="Figure Caption" LINESPMode="1"/>
+                </StoryText>
+            </PAGEOBJECT>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="746.299212598244" YPOS="5477.16535432154" OwnPage="12" ItemID="196038784" PTYPE="4" WIDTH="504.566929133677" HEIGHT="517.32283465407" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u655" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="28.3464566929134" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 517.323 L504.567 517.323 L504.567 0 L0 0 Z" copath="M0 0 L0 517.323 L504.567 517.323 L504.567 0 L0 0 Z" fillRule="0" gXpos="746.299212598244" gYpos="5477.16535432154" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="196067104"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="5396.37795274674" OwnPage="11" ItemID="196061440" PTYPE="4" WIDTH="328.818897637675" HEIGHT="105.590551189503" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u66b" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 105.591 L328.819 105.591 L328.819 0 L0 0 Z" copath="M0 0 L0 105.591 L328.819 105.591 L328.819 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="5396.37795274674" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="196067104" BACKITEM="196007808"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="5501.96850393624" OwnPage="11" ItemID="196067104" PTYPE="4" WIDTH="328.818897637675" HEIGHT="611.007874006581" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1aa5" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 611.008 L328.819 611.008 L328.819 0 L0 0 Z" copath="M0 0 L0 611.008 L328.819 611.008 L328.819 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="5501.96850393624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="196038784" BACKITEM="196061440"/>
+        <PAGEOBJECT XPOS="200.377952755724" YPOS="5503.96850393624" OwnPage="11" ItemID="196041616" PTYPE="2" WIDTH="185.716711956522" HEIGHT="77.3326771653541" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u2178" LOCALSCX="0.177156509421309" LOCALSCY="0.17715650942128" LOCALX="5.64472625514179" LOCALY="-56.2139175975593" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../en/GFX/old paper.jpeg" IRENDER="0" EMBEDDED="0" path="M0 0 L0 77.3327 L185.717 77.3327 L185.717 0 L0 0 Z" copath="M0 0 L0 77.3327 L185.717 77.3327 L185.717 0 L0 0 Z" fillRule="0" gXpos="200.377952755724" gYpos="5503.96850393624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="6363.30708660272" OwnPage="13" ItemID="196047280" PTYPE="4" WIDTH="504.566929133677" HEIGHT="490.393700786636" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u186c" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="28.3464566929134" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 490.394 L504.567 490.394 L504.567 0 L0 0 Z" copath="M0 0 L0 490.394 L504.567 490.394 L504.567 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="6363.30708660272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit" CH="About OpenChain Project"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <ITEXT FEATURES="inherit" CH="The OpenChain Project builds trust in open source by making open source license compliance simpler and more consistent. The OpenChain Specification defines a core set of requirements every quality compliance program must satisfy. OpenChain Conformance allows organizations to display their adherence to these requirements. The OpenChain Curriculum supports this process by providing extensive reference material for effective open source training and management. The result is that open source license compliance becomes more predictable, understandable and efficient for all participants in the software supply chain."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <para PARENT="Body 前後0" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <ITEXT FEATURES="inherit" CH="About The Linux Foundation"/>
+                <para PARENT="about Auther" LINESPMode="1"/>
+                <ITEXT FEATURES="inherit" CH="The Linux Foundation is dedicated to building sustainable ecosystems around open source projects to accelerate technology development and industry adoption."/>
+                <para PARENT="Body" LINESPMode="1"/>
+                <ITEXT FEATURES="inherit" CH="Founded in 2000, The Linux Foundation provides unparalleled support for open source communities through financial and intellectual resources, infrastructure, services, events, and training. Working together, The Linux Foundation and its projects form the most ambitious and successful investment in the creation of shared technology."/>
+                <para PARENT="Body" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="737.79527559037" YPOS="7111.118110224" OwnPage="-1" ItemID="196069936" PTYPE="4" WIDTH="275.811023622047" HEIGHT="769.889763778" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.283464566929134" PLINEART="1" ANNAME="u145d" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 769.89 L275.811 769.89 L275.811 0 L0 0 Z" copath="M0 0 L0 769.89 L275.811 769.89 L275.811 0 L0 0 Z" fillRule="0" gXpos="737.79527559037" gYpos="7111.118110224" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit" CH="This pamphlet is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International license. You can copy and redistribute the material in any medium or format. You must give the following copyright notice, provide a link to the license, and indicate if changes were made. You can receive the pdf file at:"/>
+                <para PARENT="Body Before bullet" LINESPMode="1"/>
+                <para PARENT="Body Before bullet" LINESPMode="1"/>
+                <ITEXT FEATURES="inherit" CH="© 2019 The Linux Foundation"/>
+                <para PARENT="Body Before bullet" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="91.4960629920355" YPOS="7505.48031494841" OwnPage="15" ItemID="196055776" PTYPE="4" WIDTH="603.779527559055" HEIGHT="5.90678045774064" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PCOLOR="Tint - Orange" PLINEART="1" ANNAME="u1946" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 5.90678 L603.78 5.90678 L603.78 0 L0 0 Z" copath="M0 0 L0 5.90678 L603.78 5.90678 L603.78 0 L0 0 Z" fillRule="0" gXpos="91.4960629920355" gYpos="7505.48031494841" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail PARENT="Collateral Identifier " LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1034.78740157444" YPOS="7826.03149605077" OwnPage="-1" ItemID="196072768" PTYPE="4" WIDTH="229.606299212598" HEIGHT="15.0236220457155" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.283464566929134" PLINEART="1" ANNAME="u2565" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 15.0236 L229.606 15.0236 L229.606 0 L0 0 Z" copath="M0 0 L0 15.0236 L229.606 15.0236 L229.606 0 L0 0 Z" fillRule="0" gXpos="1034.78740157444" gYpos="7826.03149605077" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail PARENT="Body Before bullet" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1035.38740157444" YPOS="7778.11023620825" OwnPage="-1" ItemID="196058608" PTYPE="2" WIDTH="119.999603271484" HEIGHT="41.9999084472656" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u257c" LOCALSCX="0.999996693929063" LOCALSCY="0.999996693929063" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../en/GFX/cc-zero.ai" IRENDER="0" EMBEDDED="0" path="M0 0 L0 41.9999 L120 41.9999 L120 0 L0 0 Z" copath="M0 0 L0 41.9999 L120 41.9999 L120 0 L0 0 Z" fillRule="0" gXpos="1035.38740157444" gYpos="7778.11023620825" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="226.104391878894" YPOS="7439.98084282286" OwnPage="15" ItemID="196050112" PTYPE="2" WIDTH="343.066806793213" HEIGHT="34.0586242675781" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u2605" LOCALSCX="0.1875" LOCALSCY="0.1875" LOCALX="-0.000305175781818434" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../en/long-logo_CMYK.ai" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" path="M0 0 L0 34.0586 L343.067 34.0586 L343.067 0 L0 0 Z" copath="M0 0 L0 34.0586 L343.067 34.0586 L343.067 0 L0 0 Z" fillRule="0" gXpos="226.104391878894" gYpos="7439.98084282286" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="7850.10907029106" OwnPage="15" ItemID="196075600" PTYPE="2" WIDTH="88" HEIGHT="30.8988037109375" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u28b5" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../en/GFX/cc-zero.ai" IRENDER="0" EMBEDDED="0" path="M0 0 L0 30.8988 L88 30.8988 L88 0 L0 0 Z" copath="M0 0 L0 30.8988 L88 30.8988 L88 0 L0 0 Z" fillRule="0" gXpos="139.685039370079" gYpos="7850.10907029106" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
